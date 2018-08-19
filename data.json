@@ -1,0 +1,46 @@
+{
+   "basics":{
+   	"name":"neelu",
+   	"role":"mean-stack",
+   	"mobile":"+91 1234561789",
+   	"email":"neelimaboppudi26@gmail.com"
+    },
+   "career":{
+   	     "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+    },
+    "education":[
+        {
+        	"degree":"B-Tech(computer science and engineering)",
+        	"Institute":"Vignan Nirula",
+        	"data":["2016-20","85%"]
+        },
+        {
+        "degree":"Inter(mpc)",
+        	"Institute":"Nirula",
+        	"data":["2014-16","95%"]
+    },
+    {
+    "degree":"B-Tech(computer science and engineering)",
+        	"Institute":"Sri Chaitanya",
+        	"data":["2013-14","98%"]
+     }   	
+   ],
+    "skills":[
+         {
+         	"title":"Programming Languages",
+         	"content":["Python","C","Java","R","c++"]
+         },
+         {
+           "title":"Data Bases",
+           "content":["SQL","Oracle","MySQL"]
+          },
+          {
+             "title":"Web Technologies",
+           "content":["html","Windows","css","java script"]
+          },
+          {
+          	"title":"Operating System",
+         	"content":["Windows","Linux","Unix"]
+          }
+     ]
+}         
